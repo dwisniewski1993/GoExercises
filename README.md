@@ -1,0 +1,2 @@
+# GoExercises
+Some Go applications
